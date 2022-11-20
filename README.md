@@ -1,10 +1,8 @@
 # CancerClassificationProject
 
-DataSet: Breast Cancer Wisconsin (Diagnostic) Data Set  --> https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
+• DataSet: Breast Cancer Wisconsin (Diagnostic) Data Set  --> https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 
-Feature: 
-
-Attribute Information:
+• Feature: 
 
 1) ID number
 2) Diagnosis (M = malignant, B = benign)
@@ -30,6 +28,6 @@ resulting in 30 features. For instance, field 3 is Mean Radius, field
 
 All feature values are recoded with four significant digits.
 
-Class distribution: 357 benign, 212 malignant
+• Class distribution: 357 benign, 212 malignant
 
-Missing attribute values: none
+• Missing attribute values: none

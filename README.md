@@ -31,3 +31,6 @@ All feature values are recoded with four significant digits.
 • Class distribution: 357 benign, 212 malignant
 
 • Missing attribute values: none
+
+![Figure 2022-11-21 002103](https://user-images.githubusercontent.com/110555559/202926847-a3ad9204-973e-4a99-9d45-ea2edea5436e.png)
+
